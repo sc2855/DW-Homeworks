@@ -1,0 +1,9 @@
+pytest
+pycodestyle
+numpy
+pandas
+matplotlib
+scipy
+seaborn
+pyarrow
+ipynb
